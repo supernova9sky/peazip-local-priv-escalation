@@ -1,0 +1,4 @@
+﻿  peazip_lpe.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9530,1): warning C4005: 'MICROSOFT_WINDOWS_WINBASE_H_DEFINE_INTERLOCKED_CPLUSPLUS_OVERLOADS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9528): message : see previous definition of 'MICROSOFT_WINDOWS_WINBASE_H_DEFINE_INTERLOCKED_CPLUSPLUS_OVERLOADS'
+  peazip_lpe.vcxproj -> C:\Users\USER\source\repos\peazip_lpe\Debug\peazip_lpe.exe
